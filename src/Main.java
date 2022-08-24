@@ -2,7 +2,7 @@ package src;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("I am not calculator, yet...");
+        System.out.println("I am not calculator, yet....");
     }
 
 }
